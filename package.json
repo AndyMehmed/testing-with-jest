@@ -14,5 +14,8 @@
     "url": "\u0016\u001b[A\u001b[B\u001b[A\u001b[Bhttps://github.com/AndyMehmed/testing-with-jests/"
   },
   "author": "Andy Mehmedovic",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "^1.13.6"
+  }
 }
